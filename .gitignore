@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+/uploads
+venv/
+sample.mp3
+.env
+sample.mp3
+
 # C extensions
 *.so
 
